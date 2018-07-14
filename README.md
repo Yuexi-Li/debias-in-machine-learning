@@ -3,7 +3,7 @@ Mitigate machine learning bias to ensure data ethics in U.S. national home mortg
 **:memo: Note: This document is still under writting.**  
 
 
-## Project Outline 
+## Overview
 
  ### Goal of the project
  - The project is related to the overall area of 'machine bias'. It uses the US national mortage dataset and 
