@@ -1,4 +1,4 @@
-# debias-in-machine-learning
+# Debias-In-Machine-Learning
 Mitigate machine learning bias to ensure data ethics in U.S. national home mortgage dataset.  
 **:memo: Note: This document is still under writting.**  
 
